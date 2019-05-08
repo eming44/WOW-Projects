@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C01C140D-B4A6-49C9-8574-7DACBCA18E80}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>wowTryFullOOP</RootNamespace>
+    <AssemblyName>wowTryFullOOP</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CommonServiceLocator, Version=2.0.3.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\CommonServiceLocator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Unity.Abstractions, Version=3.3.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\Unity.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Configuration, Version=5.2.1.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Container, Version=5.8.6.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\Unity.Container.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Interception, Version=5.5.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\Unity.Interception.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Interception.Configuration, Version=5.1.4.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\Unity.Interception.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RegistrationByConvention, Version=2.1.5.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\Unity.RegistrationByConvention.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ServiceLocation, Version=2.1.2.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.8.6\lib\net45\Unity.ServiceLocation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Checks\Check.cs" />
+    <Compile Include="Checks\CheckMultiCast.cs" />
+    <Compile Include="Items\Backpack.cs" />
+    <Compile Include="Items\Equippable\Armor\Armor.cs" />
+    <Compile Include="Items\Equippable\Armor\ClothArmor\ClothArmorFactory.cs" />
+    <Compile Include="Items\Equippable\Armor\ClothArmor\ClothHead.cs" />
+    <Compile Include="Items\Equippable\Armor\ClothArmor\ClothShoulder.cs" />
+    <Compile Include="Items\Equippable\Armor\ClothArmor\ICloth.cs" />
+    <Compile Include="Items\Equippable\Armor\Head.cs" />
+    <Compile Include="Items\Equippable\IEquippable.cs" />
+    <Compile Include="Items\Equippable\Armor\IHead.cs" />
+    <Compile Include="Items\Equippable\Armor\PlateArmor\IPlate.cs" />
+    <Compile Include="Items\Equippable\Armor\IShoulder.cs" />
+    <Compile Include="Items\Equippable\Armor\PlateArmor\PlateArmorFactory.cs" />
+    <Compile Include="Items\Equippable\Armor\PlateArmor\PlateHead.cs" />
+    <Compile Include="Items\Equippable\Armor\PlateArmor\PlateShoulder.cs" />
+    <Compile Include="Items\Equippable\Armor\Shoulder.cs" />
+    <Compile Include="Items\Equippable\Weapons\IAxe.cs" />
+    <Compile Include="Items\Equippable\Weapons\IHammer.cs" />
+    <Compile Include="Items\Equippable\Weapons\IStaff.cs" />
+    <Compile Include="Items\Equippable\Weapons\ISword.cs" />
+    <Compile Include="Items\Equippable\Weapons\IWeapon.cs" />
+    <Compile Include="Items\IBackpack.cs" />
+    <Compile Include="Items\IBackpackable.cs" />
+    <Compile Include="Items\IItem.cs" />
+    <Compile Include="Items\Useable\Elixirs\ElixirFactory.cs" />
+    <Compile Include="Items\Useable\Elixirs\ElixirOfIntellect.cs" />
+    <Compile Include="Items\Useable\Elixirs\ElixirOfStraight.cs" />
+    <Compile Include="Items\Useable\Potions\PotionFactory.cs" />
+    <Compile Include="Models\Character.cs" />
+    <Compile Include="Models\Heroes\Classes\ClassFactory.cs" />
+    <Compile Include="Models\Heroes\Classes\Kinds by stats\Heavy.cs" />
+    <Compile Include="Models\Heroes\Classes\Kinds by stats\IHeavy.cs" />
+    <Compile Include="Models\Heroes\Classes\Mage\IMage.cs" />
+    <Compile Include="Models\Heroes\Classes\Mage\IMageHero.cs" />
+    <Compile Include="Models\Heroes\Classes\Kinds by stats\IMagical.cs" />
+    <Compile Include="Models\Heroes\Classes\Warrior\IWarriorHero.cs" />
+    <Compile Include="Models\Heroes\Classes\Mage\Mage.cs" />
+    <Compile Include="Models\Heroes\Classes\Kinds by stats\Magical.cs" />
+    <Compile Include="Models\Heroes\IClassStats.cs" />
+    <Compile Include="Models\Heroes\IHero.cs" />
+    <Compile Include="Items\Useable\Potions\HealthPotion.cs" />
+    <Compile Include="Models\Heroes\Hero.cs" />
+    <Compile Include="Models\Heroes\Classes\Warrior\Warrior.cs" />
+    <Compile Include="Models\ICharacter.cs" />
+    <Compile Include="Items\Useable\IUseable.cs" />
+    <Compile Include="Items\Useable\Elixirs\ElixirOfAgility.cs" />
+    <Compile Include="Powers\IPower.cs" />
+    <Compile Include="Powers\PowerFactory.cs" />
+    <Compile Include="ICoolDownable.cs" />
+    <Compile Include="Spells\SpellBook.cs" />
+    <Compile Include="Spells\SpellCoolDown.cs" />
+    <Compile Include="Spells\ISpell.cs" />
+    <Compile Include="Items\Item.cs" />
+    <Compile Include="Items\Useable\Potions\ManaPotion.cs" />
+    <Compile Include="Powers\ManaPower.cs" />
+    <Compile Include="Powers\Power.cs" />
+    <Compile Include="Powers\RagePower.cs" />
+    <Compile Include="Models\Heroes\Classes\Warrior\IWarrior.cs" />
+    <Compile Include="StartUp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spells\ISpellCast.cs" />
+    <Compile Include="Spells\ISpellCastTo.cs" />
+    <Compile Include="Spells\Spell.cs" />
+    <Compile Include="Spells\WarriorSpells\BloodLust.cs" />
+    <Compile Include="Spells\WarriorSpells\MortalStrike.cs" />
+    <Compile Include="Spells\WarriorSpells\Recklessness.cs" />
+    <Compile Include="Spells\WarriorSpells\WarriorSpellFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

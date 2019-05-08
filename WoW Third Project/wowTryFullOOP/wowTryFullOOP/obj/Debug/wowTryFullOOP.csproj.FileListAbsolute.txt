@@ -1,0 +1,48 @@
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\wowTryFullOOP.exe.config
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\wowTryFullOOP.exe
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\wowTryFullOOP.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.exe
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.csproj.CoreCompileInputs.cache
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Abstractions.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Configuration.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Container.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Configuration.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Container.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.csproj.CopyComplete
+C:\Users\Eming\Desktop\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\wowTryFullOOP.exe.config
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\wowTryFullOOP.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\wowTryFullOOP.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Abstractions.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Configuration.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Container.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\CommonServiceLocator.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Abstractions.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Configuration.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Container.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.csproj.CopyComplete
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\wowTryFullOOP\wowTryFullOOP\obj\Debug\wowTryFullOOP.pdb
