@@ -1,0 +1,25 @@
+C:\Users\Eming\Desktop\second project\wowAgain\wowAgain\bin\Debug\wowAgain.exe.config
+C:\Users\Eming\Desktop\second project\wowAgain\wowAgain\obj\Debug\wowAgain.csprojResolveAssemblyReference.cache
+C:\Users\Eming\Desktop\second project\wowAgain\wowAgain\bin\Debug\wowAgain.exe
+C:\Users\Eming\Desktop\second project\wowAgain\wowAgain\bin\Debug\wowAgain.pdb
+C:\Users\Eming\Desktop\second project\wowAgain\wowAgain\obj\Debug\wowAgain.exe
+C:\Users\Eming\Desktop\second project\wowAgain\wowAgain\obj\Debug\wowAgain.pdb
+C:\Users\Eming\Desktop\second project\wow\wowAgain\bin\Debug\wowAgain.exe.config
+C:\Users\Eming\Desktop\second project\wow\wowAgain\obj\Debug\wowAgain.exe
+C:\Users\Eming\Desktop\second project\wow\wowAgain\obj\Debug\wowAgain.pdb
+C:\Users\Eming\Desktop\second project\wow\wowAgain\bin\Debug\wowAgain.exe
+C:\Users\Eming\Desktop\second project\wow\wowAgain\bin\Debug\wowAgain.pdb
+C:\Users\Eming\Desktop\second project\wow\wowAgain\obj\Debug\wowAgain.csprojResolveAssemblyReference.cache
+C:\Users\Eming\Desktop\All programs C#\second project\wow\wowAgain\bin\Debug\wowAgain.exe.config
+C:\Users\Eming\Desktop\All programs C#\second project\wow\wowAgain\obj\Debug\wowAgain.exe
+C:\Users\Eming\Desktop\All programs C#\second project\wow\wowAgain\obj\Debug\wowAgain.pdb
+C:\Users\Eming\Desktop\All programs C#\second project\wow\wowAgain\bin\Debug\wowAgain.exe
+C:\Users\Eming\Desktop\All programs C#\second project\wow\wowAgain\bin\Debug\wowAgain.pdb
+C:\Users\Eming\Desktop\All programs C#\second project\wow\wowAgain\obj\Debug\wowAgain.csprojResolveAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\second project\wow\wowAgain\bin\Debug\wowAgain.exe.config
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\second project\wow\wowAgain\bin\Debug\wowAgain.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\second project\wow\wowAgain\bin\Debug\wowAgain.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\second project\wow\wowAgain\obj\Debug\wowAgain.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\second project\wow\wowAgain\obj\Debug\wowAgain.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\second project\wow\wowAgain\obj\Debug\wowAgain.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\second project\wow\wowAgain\obj\Debug\wowAgain.pdb
